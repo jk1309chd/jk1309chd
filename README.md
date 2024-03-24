@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jk1309chd
-- 👀 I’m interested in .Pyhton & ML..
+- 👀 I’m interested in .Python & ML..
 - 🌱 I’m currently learning ..ML.
 - 💞️ I’m looking to collaborate on ..ML projects.
 - 📫 How to reach me ...
